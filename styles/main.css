@@ -1,0 +1,21 @@
+body{
+    background-color: moccasin;
+    width: 90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1{
+    color: brown;
+}
+main p{
+    font-weight: 700;
+}
+main ol{
+    line-height: 30px;
+}
+main li{
+    font-style:italic;
+}
+main h2{
+    color:brown;
+}
